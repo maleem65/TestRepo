@@ -1,0 +1,44 @@
+
+
+8/6/2018
+Resetting SA Password
+https://technet.microsoft.com/en-us/library/jj853293.aspx
+
+
+SSCM 
+https://docs.microsoft.com/en-us/sql/relational-databases/sql-server-configuration-manager?view=sql-server-2017
+
+
+SSB Knowledge (Service Broker related)
+--------------------------------------
+https://onsolve.atlassian.net/wiki/spaces/DO/pages/503578873/SSBKnowledge
+
+DO (Database Operations related)
+----------------------------------
+https://onsolve.atlassian.net/wiki/spaces/DO/overview
+
+
+8/14/2018
+---------
+git cheat sheet
+
+https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf
+
+
+8/15/2018
+---------
+
+Compliance Trainingr Related
+https://training.knowbe4.com/enrollments
+
+(email and domain pw)
+
+
+Staging
+
+SECS203DBSRV05
+using:
+maleem-pmp
+`INfJ7gnf@`
+
+path | sed "s/;/\n/g"
